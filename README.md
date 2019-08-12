@@ -114,6 +114,8 @@ npm run build --report
 
 - [https://ospyapyap.firebaseapp.com](https://ospyapyap.firebaseapp.com/)
 
+  // 웹사이트 디자인 깨짐 3.0버전에서 수정예정 
+
   
 
 
